@@ -1,0 +1,27 @@
+{
+  "name": "shigatsuel__frontend-dev-env",
+  "version": "1.0.0",
+  "description": "Learning FrontEnd Development Environment with Webpack, Babel and ESLint",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShigatsuEl/frontend-dev-env.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShigatsuEl/frontend-dev-env/issues"
+  },
+  "homepage": "https://github.com/ShigatsuEl/frontend-dev-env#readme",
+  "devDependencies": {
+    "css-loader": "^5.0.1",
+    "file-loader": "^6.2.0",
+    "style-loader": "^2.0.0",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.20.0",
+    "webpack-cli": "^4.5.0"
+  }
+}
