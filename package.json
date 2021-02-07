@@ -4,7 +4,7 @@
   "description": "Learning FrontEnd Development Environment with Webpack, Babel and ESLint",
   "main": "webpack.config.js",
   "scripts": {
-    "build": "webpack --progress"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,12 @@
   },
   "homepage": "https://github.com/ShigatsuEl/frontend-dev-env#readme",
   "devDependencies": {
+    "@babel/cli": "^7.12.13",
+    "@babel/core": "^7.12.13",
+    "@babel/preset-env": "^7.12.13",
+    "babel-loader": "^8.2.2",
     "clean-webpack-plugin": "^3.0.0",
+    "core-js": "^2.6.12",
     "css-loader": "^5.0.1",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.0.0",
