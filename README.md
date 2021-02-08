@@ -2,4 +2,4 @@
 
 Learning FrontEnd Development Environment with Webpack, Babel and ESLint
 
-This Branch handles Sass
+This Branch handles Sass and Scss
