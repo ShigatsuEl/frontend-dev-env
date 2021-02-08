@@ -11,3 +11,4 @@ Learning FrontEnd Development Environment with Webpack, Babel and ESLint
 | 03  |     [Webpack Plugin](https://github.com/ShigatsuEl/frontend-dev-env/tree/1-webpack/3-plugin)     |      웹팩 플러그인 실습      |
 | 04  |           [Babel](https://github.com/ShigatsuEl/frontend-dev-env/tree/2-babel/1-babel)           |    바벨 + 웹팩 연동 실습     |
 | 05  |            [Sass](https://github.com/ShigatsuEl/frontend-dev-env/tree/2-babel/2-sass)            | Sass & Scss + 웹팩 연동 실습 |
+| 06  |          [ESLint](https://github.com/ShigatsuEl/frontend-dev-env/tree/3-lint/1-eslint)           |         ESLint 실습          |
