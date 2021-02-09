@@ -13,3 +13,4 @@ Learning FrontEnd Development Environment with Webpack, Babel and ESLint
 | 05  |            [Sass](https://github.com/ShigatsuEl/frontend-dev-env/tree/2-babel/2-sass)            | Sass & Scss + 웹팩 연동 실습 |
 | 06  |          [ESLint](https://github.com/ShigatsuEl/frontend-dev-env/tree/3-lint/1-eslint)           |         ESLint 실습          |
 | 07  |        [Prettier](https://github.com/ShigatsuEl/frontend-dev-env/tree/3-lint/2-prettier)         | Prettier + ESLint 연동 실습  |
+| 08  | [Webpack Dev Server](https://github.com/ShigatsuEl/frontend-dev-env/tree/4-webpack/1-dev-server) |     웹팩 개발 서버 실습      |
